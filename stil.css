@@ -1,0 +1,21 @@
+body {
+    background-color: darkgray;
+    color: mediumblue;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+div {
+    background-color: brown;
+    color: yellowgreen;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+ul {
+    background-color: brown;
+    color: greenyellow;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+}
+
